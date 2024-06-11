@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Languages I use:
-<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
+</p>
+
