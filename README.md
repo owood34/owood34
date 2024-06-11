@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Languages I use:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Python-4584B6?style=for-the-badge&logo=python" />
 </p>
 
