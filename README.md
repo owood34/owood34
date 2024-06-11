@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Languages I use:
-Python Java JavaScript HTML CSS DOCKER
+<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
