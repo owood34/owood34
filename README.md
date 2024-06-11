@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p> Welcome to my page! I am Owen</p>
 
 <h3> Things I code with </h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
